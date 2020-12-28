@@ -1,10 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Ana M. Palacio-Castro
-description: Personal site for Ana Palacio-Castro, a scientist, working on Marine Biology and Ecology, climate change, coral bleaching and coral physiology.
+description: Personal site for Ana Palacio-Castro, PhD. Scientist, working on Marine Biology and Ecology, climate change, coral bleaching & physiology.
 ---
 
 <img class="img-circle avatar"
