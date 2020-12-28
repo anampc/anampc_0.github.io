@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 permalink: /projects/
+description: Heat stress suceptiblity in Caribbean corals 2020 
 ---
 
 
