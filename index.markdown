@@ -24,6 +24,4 @@ I am currently a guest post-doctoral researcher at [NOAA-AOML](https://www.aoml.
 
 
 
-Code and data analysis for my papers are in <a href="/projects"> projects...</a>
-
-Cool pictures from the field are in <a href="/expeditions"> expeditions...</a>
+You can find the code and data analysis for my papers are in <a href="/projects"> projects</a> and cool pictures from the field in <a href="/expeditions"> expeditions</a>.

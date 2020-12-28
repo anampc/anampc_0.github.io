@@ -21,23 +21,40 @@
 name: Ana Palacio, PhD
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+email: apalacio@rsmas.miami.edu
 
-#theme: jekyll-theme-minimal
-
-#title: Ana Palacio-Castro, PhD
-#email: apalacio@rsmas.miami.edu
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Personal site for Ana Palacio, a scientist, working on Marine Biology and Ecology, 
 #  climate change, coral bleaching and coral physiology.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AnaPalacio_C
-github_username:  anampc
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  # instagram: your_username
+  # keybase: your_username
+  # linkedin: bartek-iwańczuk-0390a5b1
+  # medium: your_username
+  # stackoverflow: your_user_id
+  # telegram: your_username
+    twitter_username: AnaPalacio_C
+    github_username:  anampc
+  # unsplash: your_username
+  # vk: your_username
+  # website: http://your_website_url
+  # youtube: your_username
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
