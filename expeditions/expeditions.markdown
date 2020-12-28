@@ -2,18 +2,30 @@
 layout: default
 title: Expeditions
 permalink: /expeditions/
-description: Cool pictures from The Galapagos Islands, Panama, Colombia.
+description: Cool pictures from The Galapagos Islands, Panama, Colombia by Ana Palacio.
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ <h2>Research Expeditions</h2>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+				
+<nav>
+	<ul class="nav nav-pills pull-right">
+		<li class="{{ page.expeditions.2018Panama }}"><a href="/expeditions/2018Panama" title="2018 Panama">2018 Gulf of Panama and Chiriquí (Panama)</a></li>
+		
+		<li class="{{ page.expeditions.2017Galapagos }}"><a href="/expeditions/2017Galapagos" title="2017 Galapagos">2017 The Galapagos Islands (Ecuador)</a></li>
+		
+		<li class="{{ page.expeditions.2016Panama }}"><a href="/expeditions/2016Panama" title="2016 Panama">2016 Gulf of Panama (Panama)</a></li>
+		
+		<li class="{{ page.expeditions.2015Panama }}"><a href="/expeditions/2015Panama" title="2015 Panama">2015 Gulf of Panama and Chiriquí (Panama)</a></li>
+		
+		<li class="{{ page.expeditions.2015Galapagos }}"><a href="/expeditions/2015Galapagos" title="2015 Galapagos">2015 The Galapagos Islands (Ecuador)</a></li>
+		
+		<li class="{{ page.expeditions.2014Panama }}"><a href="/expeditions/2014Panama" title="2014 Panama">2014 Gulf of Panama and Chiriquí (Panama)</a></li>
+		
+		<li class="{{ page.expeditions.2014Gorgona }}"><a href="/expeditions/2014Gorgona" title="2014 Gorgona">2014 Gorgona Island (Colombia)</a></li>
+		
+		<li class="{{ page.expeditions.2009Malpelo }}"><a href="/expeditions/2009Malpelo" title="2009 Malpelo">2009 Malpelo Island (Colombia)</a></li>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
-
-[jekyll-organization]: https://github.com/jekyll
+	</ul>
+	</nav>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ana M. Palacio-Castro
+title: anampc.github.io
 description: Personal site for Ana Palacio-Castro, PhD. Scientist, working on Marine Biology and Ecology, climate change, coral bleaching & physiology.
 ---
 
