@@ -20,8 +20,8 @@ I use a combination of fieldwork and laboratory experiments to better understand
 I am currently a guest post-doctoral researcher at [NOAA-AOML](https://www.aoml.noaa.gov)
  and an [NRC](https://sites.nationalacademies.org/PGA/RAP/index.htm) research fellow. 
  I got a Ph.D. from the University of Miami with the [Coral Futures Lab](https://coralreeffutures.rsmas.miami.edu/people/ana-palacio/index.html),
-  and a BS degree from Universidad de Antioquia (Colombia). I am also a member of the Coral Reefs Ecology research group at Universidad del Valle.
+  and a BS degree from Universidad de Antioquia (Colombia). I am also a member of the [Coral Reefs Ecology research group](https://arrecifes.correounivalle.edu.co/integrantes-del-grupo) at Universidad del Valle.
 
 
 
-You can find the code and data analysis for my papers are in <a href="/projects"> projects</a> and cool pictures from the field in <a href="/expeditions"> expeditions</a>.
+You can find the code and data analysis for my papers in <a href="/projects"> projects</a> and cool pictures from the field in <a href="/expeditions"> expeditions</a>.
