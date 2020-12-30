@@ -1,0 +1,100 @@
+---
+layout: default
+title: Galapagos 2016
+description: Pictures Ecology of the Galapagos Islands class 2016.
+---
+
+<div class="expedition">
+
+ <h2>Southern Galapagos Islands, Ecuador</h2>
+
+	<!-- Header -->
+		<div class="header" id="myHeader"">
+		  <h3>Southern Galapagos (TAing class 2016)</h3>
+		  <p>Click on the buttons to change the grid view.</p>
+  			<button class="btn" onclick="one()">1</button>
+  			<button class="btn" onclick="two()">2</button>
+  			<button class="btn active" onclick="four()">4</button>
+  			<br>
+  		</div>
+
+		<!-- Photo Grid -->
+	  	<div class="row">
+		  <div class="column">
+		  	<img src="2016_gal/Feb10-16_LaCalera_78.jpg"style="width:100%">
+		    <img src="2016_gal/02-09-16_LaConcha_37.jpg"style="width:100%">
+		    <img src="2016_gal/IMG_3707.jpg"style="width:100%">
+		    <img src="2016_gal/02-09-16_LaConcha_20.jpg "style="width:100%">
+		    <img src="2016_gal/Feb13-16_Tortuga_56.jpg"style="width:100%">
+		    <img src="2016_gal/02-09-16_LaConcha_67.jpg"style="width:100%">
+		    <img src="2016_gal/Pajaros.jpg"style="width:100%">
+		    </div>
+		  <div class="column">
+		    <img src="2016_gal/Feb13-16_Tortuga_13.jpg"style="width:100%">
+		    <img src="2016_gal/Feb10-16_LaCalera_43.jpg"style="width:100%">
+		   <!--- <img src="2016_gal/feb21-16LaConcha_1.jpg"style="width:100%">-->
+		    <img src="2016_gal/Feb22-16_Champion_38.jpg"style="width:100%">
+		    <img src="2016_gal/Feb22-16_Champion_43.jpg"style="width:100%">
+		    <img src="2016_gal/Feb23-16_CoronaDiablo_11.jpg"style="width:100%">
+		    <img src="2016_gal/02-09-16_LaConcha_79.jpg"style="width:100%">	
+		  </div>
+		  <div class="column">
+		    <img src="2016_gal/Feb10-16_LaCalera_72.jpg"style="width:100%">
+		    <img src="2016_gal/Feb13-16_Tortuga_18.jpg"style="width:100%">
+		    <img src="2016_gal/Feb17-16_LobChica_33.jpg"style="width:100%">
+		    <img src="2016_gal/Feb14-16_LaConcha_33.jpg"style="width:100%">
+		    <img src="2016_gal/Feb14-16_LaConcha_18.jpg"style="width:100%">
+		  </div>
+		  <div class="column">
+		  	<img src="2016_gal/Feb17-16_LobChica_30.jpg"style="width:100%">
+		    <img src="2016_gal/Feb23-16_CoronaDiablo_27.jpg"style="width:100%">
+		    <img src="2016_gal/IMG_3706.jpg"style="width:100%">
+		    <img src="2016_gal/IMG_4936.jpg"style="width:100%">
+		    <img src="2016_gal/IMG_4957.jpg"style="width:100%">
+		    <img src="2016_gal/IMG_4959.jpg"style="width:100%">
+		    <img src="2016_gal/Tintoreras_18.jpg"style="width:100%"> 
+		    </div>
+		</div>
+
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
+
+// Two images side by side
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
+
+// Four images side by side
+function four() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "25%";  // IE10
+    elements[i].style.flex = "25%";
+  }
+}
+
+// Add active class to the current button (highlight it)
+var header = document.getElementById("Myheader");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
