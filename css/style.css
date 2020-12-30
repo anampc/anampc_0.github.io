@@ -65,6 +65,8 @@ ul.swatch li:first-child { webkit-border-top-left-radius: 9px; -webkit-border-bo
 .expedition h1 {text-align: center; padding: 32px;}
 .expedition h2 {text-align: center; padding: 32px;}
 .expedition h3 {text-align: center; padding: 32px;}
+.expedition a  {text-decoration: none; color: #222021;}
+.expedition	a:hover {text-decoration: underline;}
 
 .expedition * {box-sizing: border-box;}
 .expedition .row {display: -ms-flexbox; /* IE 10 */
