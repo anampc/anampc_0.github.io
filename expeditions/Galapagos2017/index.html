@@ -1,0 +1,158 @@
+---
+layout: default
+title: Galapagos 2017
+permalink: /expeditions/Galapagos2017
+description: Cool pictures from The Galapagos Islands, Panama, Colombia by Ana Palacio.
+---
+
+<div class="expedition">
+
+
+   <h2>Northern Galapagos Islands, Ecuador, 2017</h2>
+
+   	<!-- Header -->
+		<div class="header" id="myHeader"">
+		  <h3>Galapagos Fauna</h3>
+		  <p>Click on the buttons to change the grid view.</p>
+  			<button class="btn" onclick="one()">1</button>
+  			<button class="btn" onclick="two()">2</button>
+  			<button class="btn active" onclick="four()">4</button>
+  			<br>
+  		</div>
+  		
+ 
+<!-- Fauna -->
+<div class="row">
+  <div class="column">
+    <img src="Fauna/1.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Fauna/2.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Fauna/3.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Fauna/4.jpg" alt=" " style="width:100%">
+  </div>
+<div class="column">
+    <img src="Fauna/5.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Fauna/6.jpg" alt=" " style="width:100%">
+  </div>
+</div>
+
+
+  <h3>Weird corals</h3>
+
+<!-- Corals -->
+<div class="row">
+  <div class="column">
+    <img src="WC/5.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="WC/2.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="WC/3.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="WC/1.jpg" alt=" " style="width:100%">
+  </div>
+<div class="column">
+    <img src="WC/4.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="WC/6.jpg" alt=" " style="width:100%">
+  </div>
+</div>
+
+
+  <h3>Islands and landscapes</h3>
+
+
+<!-- Islands -->
+<div class="row">
+  <div class="column">
+    <img src="LS/1.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="LS/2.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="LS/3.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="LS/4.jpg" alt=" " style="width:100%">
+  </div>
+<div class="column">
+    <img src="LS/5.jpg" alt=" " style="width:100%">
+  </div>
+  <div class="column">
+    <img src="LS/6.jpg" alt=" " style="width:100%">
+  </div>
+</div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:95%">
+  <div id="imgtext"></div>
+</div>
+
+</div>
+
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
+
+// Two images side by side
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
+
+// Four images side by side
+function four() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "25%";  // IE10
+    elements[i].style.flex = "25%";
+  }
+}
+
+// Add active class to the current button (highlight it)
+var header = document.getElementById("Myheader");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+
+
+	 
+
+	   
+	   
+
+
+
+	  
+	  

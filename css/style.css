@@ -1,9 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
 
-body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
+body { padding-top: 20px; padding-bottom: 40px; font-family: Open Sans, Helvetica, sans-serif; font-size: 14px; }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: Arial, Helvetica, sans-serif; font-weight: 600;}
 
 blockquote p { font-size: 16px; line-height: 1.6em; }
 
@@ -57,14 +55,36 @@ ul.swatch li:first-child { webkit-border-top-left-radius: 9px; -webkit-border-bo
 .cv li { line-height: 23px; }
 .cv h2 { font-size: 26.5px; }
 .cv h1 { font-size: 32.5px; }
+.cv a  {text-decoration: none; color: #999;}
+.cv	a:hover {text-decoration: underline;}
+.cv p {text-indent: -38px; padding-left: 38px}
+
+/* Expeditions */
+
+.expedition {text-align:center;}
+.expedition h1 {text-align: center; padding: 32px;}
+.expedition h2 {text-align: center; padding: 32px;}
+.expedition h3 {text-align: center; padding: 32px;}
+
+.expedition * {box-sizing: border-box;}
+.expedition .row {display: -ms-flexbox; /* IE 10 */
+  display: flex;-ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap; padding: 0 4px;}
+
+/* Create two equal columns that sits next to each other */
+.expedition .column {-ms-flex: 50%; /* IE 10 */flex: 50%; padding: 0 4px;}
+.expedition .column img {margin-top: 8px; vertical-align: middle;}
+
+/* Style the buttons */
+.expedition .btn {border: none; outline: none;
+  padding: 10px 16px; background-color: #f1f1f1;
+  cursor: pointer; font-size: 18px}
+  
+.expedition .btn:hover {background-color: #ddd}
+.expedition .btn.active {background-color: #666;color: white;}
+
 
 .notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; }
-
-/* Contact */
-iframe {font-family: 'Merriweather', Georgia, Times; font-size: 16px;}
-
-/* About */
-.about ul.list-unstyled li { line-height: 30px; text-indent: -30px; margin-left: 30px;}
 
 /* Guides */
 .guide { width: 90%; margin: 0 auto 60px auto; line-height: 26px;}

@@ -5,8 +5,7 @@ permalink: /projects/
 description: Heat stress suceptiblity in Caribbean corals 2020 
 ---
 
-
-### [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://github.com/anampc/NutrientsHeat_Caribbean/edit/main/README.md)
+#### [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://github.com/anampc/NutrientsHeat_Caribbean/edit/main/README.md)
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
 * **Journal:** _Coral Reefs_ 
@@ -16,7 +15,7 @@ description: Heat stress suceptiblity in Caribbean corals 2020
   
 -----
 
-### [Increased Algal Symbiont Density Reduces Host Immunity in a Threatened Caribbean Coral Species, *Orbicella faveolata*](https://anampc.github.io/Ofav_NH4_SH/)
+#### [Increased Algal Symbiont Density Reduces Host Immunity in a Threatened Caribbean Coral Species, *Orbicella faveolata*](https://anampc.github.io/Ofav_NH4_SH/)
 
 * **Authors:** Lauren E. Fuess, Ana M. Palacio-Castro, Caleb C. Butler, Andrew C. Baker, Laura D. Mydlarz
 * **Journal:** _Front. Ecol. Evol_ 
@@ -26,7 +25,7 @@ description: Heat stress suceptiblity in Caribbean corals 2020
   
 -----
 
-### [Coral reef resilience to thermal stress in the Eastern Tropical Pacific](https://anampc.github.io/ETP_reef_resilience/)
+#### [Coral reef resilience to thermal stress in the Eastern Tropical Pacific](https://anampc.github.io/ETP_reef_resilience/)
 
 * **Authors:** Mauricio Romero-Torres, Alberto Acosta, Ana M. Palacio-Castro, David A. Eric A. Treml, Fernando A. Zapata, Paz-García, and James W. Porter
 * **Journal:** _Global Change Biology_ 
