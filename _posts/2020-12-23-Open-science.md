@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Open science"
+title: Open science
 date: 2020-12-23
 categories: Open science
 ---
-
-# Open science
 
 ## Data analysis
 
