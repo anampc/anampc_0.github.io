@@ -55,9 +55,9 @@ Data analysis for the paper [*Coral reef resilience to thermal stress in the Eas
 
 * GitHub [repository](https://github.com/anampc/ETP_reef_resilience) with R scripts, data, and ReadMe file
 
-* Repository [output](http://anampc.github.io/ETP_reef_resilience/)generated with Markdown and Knit
+* Repository [output](http://anampc.github.io/ETP_reef_resilience/) generated with Markdown and Knit
 
-* Repository [archive])(https://zenodo.org/record/3744864) in Zenodo that corresponds with the last version of the data published​
+* Repository [archive](https://zenodo.org/record/3744864) in Zenodo that corresponds with the last version of the data published​
 
 
 ## Protocols
