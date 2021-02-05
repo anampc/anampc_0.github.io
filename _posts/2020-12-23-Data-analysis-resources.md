@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Open science
+title: Data analysis resources
 date: 2020-12-23
-categories: Open science
+tag: Open science
 ---
 
-## Data analysis
 
 Most of my current data analysis uses R and R packages. During college, I first used proprietary programs for statistical analysis. The learning curve was not so steep, but replicating the analyses became difficult after changing computers or losing access to the software licences (They were quite expensive for a student!). Additionally, using these programs became more difficult when I changed my operating system to a [GNU/Linux](https://www.gnu.org/) distribution that was more according to my [philosophy](https://www.gnu.org/philosophy/philosophy.html).
 
@@ -58,13 +57,3 @@ Data analysis for the paper [*Coral reef resilience to thermal stress in the Eas
 * Repository [output](http://anampc.github.io/ETP_reef_resilience/) generated with Markdown and Knit
 
 * Repository [archive](https://zenodo.org/record/3744864) in Zenodo that corresponds with the last version of the data published​
-
-
-## Protocols
-[protocols.io](https://www.protocols.io/): A secure platform for developing and sharing reproducible methods
-
-## Paper access
-
-* [Unpaywall](https://unpaywall.org/) (database and browser extension): links to full-text articles from open-access sources. The content is harvested from legal sources including repositories run by universities, governments, and scholarly societies, as well as open content hosted by publishers.
-
-* [OpenAccessButton](https://openaccessbutton.org/): a browser extension that finds free, legal, full-text articles in aggregated repositories in the world, hybrid articles, open access journals, and authors' personal pages.
