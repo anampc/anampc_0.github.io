@@ -8,7 +8,7 @@ description: Heat stress suceptiblity in Caribbean corals 2020
 #### [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://github.com/anampc/NutrientsHeat_Caribbean/edit/main/README.md)
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
-* **Journal:** _Coral Reefs_  **DOI:**[XXX](http://dx.doi.org/XXX)
+* **Journal:** _Coral Reefs_.-DOI:[XXX](http://dx.doi.org/XXX)
 * **Data:** [![DOI](https://zenodo.org/badge/323421269.svg)](https://zenodo.org/badge/latestdoi/323421269)
   
 -----
@@ -17,7 +17,7 @@ description: Heat stress suceptiblity in Caribbean corals 2020
 
 * **Authors:** Lauren E. Fuess, Ana M. Palacio-Castro, Caleb C. Butler, Andrew C. Baker, Laura D. Mydlarz
 * **Journal:** _Front. Ecol. Evol_  **DOI:**[10.3389/fevo.2020.572942](https://doi.org/10.3389/fevo.2020.572942) 
-
+* **Data:** 
 [![DOI](https://zenodo.org/badge/224942894.svg)](https://zenodo.org/badge/latestdoi/224942894)
   
 -----
@@ -26,8 +26,7 @@ description: Heat stress suceptiblity in Caribbean corals 2020
 
 * **Authors:** Mauricio Romero-Torres, Alberto Acosta, Ana M. Palacio-Castro, David A. Eric A. Treml, Fernando A. Zapata, Paz-García, and James W. Porter
 * **Journal:** _Global Change Biology_  **DOI:**[10.1111/gcb.15126](http://dx.doi.org/10.1111/gcb.15126)
-
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3404205.svg)](http://dx.doi.org/10.5281/zenodo.3404205)
+* **Data:** [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3404205.svg)](http://dx.doi.org/10.5281/zenodo.3404205)
 
 
 
