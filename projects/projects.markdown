@@ -8,7 +8,7 @@ description: Climate change and coral data analysis and papers
 #### 2021 - [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://github.com/anampc/NutrientsHeat_Caribbean/edit/main/README.md)
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
-* **Journal:** _Coral Reefs_ [XXX](http://dx.doi.org/XXX)
+* **Pre'Print:** _BioRxiv_ [10.1101/2021.05.10.443445](https://doi.org/10.1101/2021.05.10.443445)
 * **Data:** [![DOI](https://zenodo.org/badge/323421269.svg)](https://zenodo.org/badge/latestdoi/323421269)
   
 -----
