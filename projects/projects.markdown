@@ -9,7 +9,7 @@ description: Climate change and coral data analysis and papers
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
 * **Journal:** _Coral Reefs_ [10.1007/s00338-021-02159-x](https://link.springer.com/article/10.1007/s00338-021-02159-x)
-* **Data:** [![DOI](https://zenodo.org/badge/10.5281/zenodo.4632232.svg)](https://doi.org/10.5281/zenodo.463223)
+* **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4632232.svg)](https://doi.org/10.5281/zenodo.4632232)
   
 -----
 
