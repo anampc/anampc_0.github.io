@@ -5,6 +5,32 @@ permalink: /projects/
 description: Climate change and coral data analysis and papers 
 ---
 
+
+#### 2022 - [ Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
+
+* **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
+* **Journal:** _Submitted_ [10.XXX](https://link.topublication)
+
+* **Data:** 
+    * DWH ![DOI](https://zenodo.org/badge/213742228.svg)](https://zenodo.org/badge/latestdoi/213742228)
+    *  Symbiodiniaceae ![DOI](https://zenodo.org/badge/213963722.svg)](https://zenodo.org/badge/latestdoi/213963722)
+* **Code:**
+    * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
+    * _GitHub_ [Cover](https://anampc.github.io/Uva_Cover_Bleaching/)
+    * _GitHub_ [Symbiodiniaceae](https://anampc.github.io/Symbiodiniaceae_Uva/)
+  
+-----
+
+#### 2022 - [Microbiome signatures in *Acropora cervicornis* are associated with genotypic resilience to elevated nutrients and heat stress](https://link.topun)
+
+* **Authors:** Ana M. Palacio-Castro, Stephanie M. Rosales, Caroline E. Dennison, Andrew C. Baker
+* **Journal:** _Submitted_ [10.XXX](https://linkto paper)
+* **Data:** [![DOI](https://zenodo.org/badge/218383066.svg)](https://zenodo.org/badge/latestdoi/218383066)
+* **Code:** _GitHub_ [NutrientsHeat_AcerGenotypes](https://anampc.github.io/Nutrients_Genotypes/)
+  
+-----
+
+
 #### 2021 - [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://link.springer.com/article/10.1007/s00338-021-02159-x)
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
