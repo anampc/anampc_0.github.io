@@ -12,8 +12,8 @@ description: Climate change and coral data analysis and papers
 * **Journal:** _Submitted_ [10.XXX](https://link.topublication)
 
 * **Data:** 
-    * DWH ![DOI](https://zenodo.org/badge/213742228.svg)](https://zenodo.org/badge/latestdoi/213742228)
-    *  Symbiodiniaceae ![DOI](https://zenodo.org/badge/213963722.svg)](https://zenodo.org/badge/latestdoi/213963722)
+    * DWH [![DOI](https://zenodo.org/badge/213742228.svg)](https://zenodo.org/badge/latestdoi/213742228)
+    *  Symbiodiniaceae [![DOI](https://zenodo.org/badge/213963722.svg)](https://zenodo.org/badge/latestdoi/213963722)
 * **Code:**
     * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
     * _GitHub_ [Cover](https://anampc.github.io/Uva_Cover_Bleaching/)
