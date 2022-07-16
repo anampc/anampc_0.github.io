@@ -24,7 +24,7 @@ description: Climate change and coral data analysis and papers
 #### 2022 - [Microbiome signatures in *Acropora cervicornis* are associated with genotypic resilience to elevated nutrients and heat stress](https://link.topun)
 
 * **Authors:** Ana M. Palacio-Castro, Stephanie M. Rosales, Caroline E. Dennison, Andrew C. Baker
-* **Journal:** _Submitted_ [10.XXX](https://linkto paper)
+* **Journal:** _Coral Reefs_ [10.1007/s00338-022-02289-w](https:rdcu.be/cRFc1)
 * **Data:** [![DOI](https://zenodo.org/badge/218383066.svg)](https://zenodo.org/badge/latestdoi/218383066)
 * **Code:** _GitHub_ [NutrientsHeat_AcerGenotypes](https://anampc.github.io/Nutrients_Genotypes/)
   
@@ -34,7 +34,7 @@ description: Climate change and coral data analysis and papers
 #### 2021 - [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://link.springer.com/article/10.1007/s00338-021-02159-x)
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
-* **Journal:** _Coral Reefs_ [10.1007/s00338-021-02159-x](https://link.springer.com/article/10.1007/s00338-021-02159-x)
+* **Journal:** _Coral Reefs_ [10.1007/s00338-021-02159-x](https://rdcu.be/cpS3F)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4632232.svg)](https://doi.org/10.5281/zenodo.4632232)
 * **Code:** _GitHub_ [NutrientsHeat_Caribbean](https://anampc.github.io/NutrientsHeat_Caribbean/)
   
