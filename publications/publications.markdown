@@ -5,7 +5,7 @@ permalink: /publications/
 description: Climate change and coral data analysis and papers
 ---
 
-## Here you can find my published work. The **Data** sections contain permanent links to the data and code used for publications to improve replicability and reproducibility. The **Code** sections contain the link to the most recent data analysis (that can be updated after publication) with visualization of the code outputs. 
+Here you can find my published work. The **Data** sections contain permanent links to the data and code used for publications to improve replicability and reproducibility. The **Code** sections contain the link to the most recent data analysis (that can be updated after publication) with visualization of the code outputs. 
 
 -----
 
