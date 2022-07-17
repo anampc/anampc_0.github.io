@@ -7,7 +7,7 @@ description: Climate change and coral data analysis and papers
 #### 202X - [Comparacion de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
 
 * **Authors:** Ana M. Palacio-Castro, Zapata FA
-* **Journal:** Submitted to: In JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp XX-XX). Bogota, Colombia: Publisher._ [10.XXX](https://link.topublication)
+* **Journal:** Submitted to: In JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp XX-XX). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [10.XXX](https://link.topublication)
 
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6369273.svg)](https://doi.org/10.5281/zenodo.6369273)
 * **Code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
