@@ -19,15 +19,19 @@ description: CV for Ana Palacio, Marine Biology and Ecology, Climate Change, Cor
 				</div>
 				
             <p style="text-indent: 0; padding-left: 0px;">I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I am also trying to identify factors that promote more resistant corals that could survive in our fast changing world.</p>
-				
-			<h2>Education</h2>
+			
+		<button type="button" class="collapsible">Education</button>
+		<div class="content">
+	
 				<p><strong><abbr title="Doctor of Philosophy">PhD</abbr>, Marine Biology and Ecology, University of Miami, FL, 2019</strong><br>
 				<a style="text-decorations:none; color:inherit; href="https://scholarship.miami.edu/discovery/fulldisplay/alma991031447680002976/01UOML_INST:ResearchRepository?tags=scholar"> <em>Abiotic Controls on Endosymbiotic Algal Communities and Their Implications for Coral Bleaching Susceptibility and Recovery</em></a> 
 				
 				<p><strong>BS, Biology, Universidad de Antioquia, Colombia, 2010</strong><br>
 				<em>Comparison of methods for monitoring sessile benthic communities in “La Azufrada” coral reef, Gorgona Island National Natural Park. 75 pp</em>.</p>	
-				
-		<h2>Research experience</h2>
+		</div>
+		
+		<button type="button" class="collapsible">Research experience</button>
+		<div class="content">
 					<dl class="dl-horizontal">
 					<dt>2019-Current<br>
 					<strong>Postdoctoral <br> researcher</strong></dt>
@@ -64,7 +68,9 @@ description: CV for Ana Palacio, Marine Biology and Ecology, Climate Change, Cor
 						<dd>UNIVERSIDAD DE ANTIOQUIA - GAIA<br>
 						Collected data for fish and river otter monitoring in EPM dams.</dd>
 						</dl>
-                               
+                </div>            
+		
+									 
 		<div><h2>Publications</h2>	
 				<p><strong>Palacio-Castro AM</strong>, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC 
 					(submitted) Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming.
@@ -204,3 +210,20 @@ description: CV for Ana Palacio, Marine Biology and Ecology, Climate Change, Cor
 				
 				
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
