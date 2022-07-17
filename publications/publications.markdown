@@ -2,9 +2,14 @@
 layout: default
 title: Publications
 permalink: /publications/
-description: Climate change and coral data analysis and papers 
+description: Climate change and coral data analysis and papers
 ---
-#### 202X - [Comparacion de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
+
+## Here you can find my published work. The **Data** sections contain permanent links to the data and code used for publications to improve replicability and reproducibility. The **Code** sections contain the link to the most recent data analysis (that can be updated after publication) with visualization of the code outputs. 
+
+-----
+
+#### 202X - [Comparación de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
 
 * **Authors:** Ana M. Palacio-Castro, Zapata FA
 * **Journal:** Submitted to: In JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp XX-XX). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [10.XXX](https://link.topublication)
