@@ -1,12 +1,20 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Publications
+permalink: /publications/
 description: Climate change and coral data analysis and papers 
 ---
+#### 202X - [Comparacion de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
 
+* **Authors:** Ana M. Palacio-Castro, Zapata FA
+* **Journal:** Submitted to: In JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp XX-XX). Bogota, Colombia: Publisher._ [10.XXX](https://link.topublication)
 
-#### 2022 - [ Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
+* **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6369273.svg)](https://doi.org/10.5281/zenodo.6369273)
+* **Code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
+  
+-----
+
+#### 2022 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
 
 * **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
 * **Journal:** _Submitted_ [10.XXX](https://link.topublication)
@@ -31,7 +39,7 @@ description: Climate change and coral data analysis and papers
 -----
 
 
-#### 2021 - [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://link.springer.com/article/10.1007/s00338-021-02159-x)
+#### 2021 - [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://rdcu.be/cpS3F)
 
 * **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
 * **Journal:** _Coral Reefs_ [10.1007/s00338-021-02159-x](https://rdcu.be/cpS3F)
