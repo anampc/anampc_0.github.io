@@ -24,14 +24,16 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
 * **Journal:** _Submitted_ [10.XXX](https://link.topublication)
 
-* **Code:**
+* **Code and outputs:**
     * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
-    * _GitHub_ [Cover](https://anampc.github.io/Uva_Cover_Bleaching/)
+    * _GitHub_ [Coral cover](https://anampc.github.io/Uva_Cover_Bleaching/)
+    * _GitHub_ [Coral Bleaching](https://rpubs.com/anampc20/Uva_ENSO_Cover_Bleaching)
     * _GitHub_ [Symbiodiniaceae](https://anampc.github.io/Symbiodiniaceae_Uva/)
 
 
-* **Data:** 
+* **Data and scripts:** 
     * DWH [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
+    * Coral cover and bleaching [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
     *  Symbiodiniaceae [![DOI](https://zenodo.org/badge/213963722.svg)](https://zenodo.org/badge/latestdoi/213963722)
 -----
 
