@@ -31,7 +31,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 
 * **Data:** 
-    * DWH [![DOI] (https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
+    * DWH [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
     *  Symbiodiniaceae [![DOI](https://zenodo.org/badge/213963722.svg)](https://zenodo.org/badge/latestdoi/213963722)
 -----
 
