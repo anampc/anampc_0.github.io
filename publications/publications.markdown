@@ -26,7 +26,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 * **Code and outputs:**
     * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
-    * _GitHub_ [Coral cover](https://anampc.github.io/Uva_Cover_Bleaching/)
+    * _GitHub_ [Coral cover](https://anampc.github.io/Uva_ENSO_Cover_Bleaching/)
     * _GitHub_ [Coral Bleaching](https://rpubs.com/anampc20/Uva_ENSO_Cover_Bleaching)
     * _GitHub_ [Symbiodiniaceae](https://anampc.github.io/Symbiodiniaceae_Uva/)
 
@@ -34,7 +34,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Data and scripts:** 
     * DWH [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
     * Coral cover and bleaching [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035828.svg)](https://doi.org/10.5281/zenodo.7035828)
-    *  Symbiodiniaceae [![DOI](https://zenodo.org/badge/213963722.svg)](https://zenodo.org/badge/latestdoi/213963722)
+    * Symbiodiniaceae [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035874.svg)](https://doi.org/10.5281/zenodo.7035874)
 -----
 
 #### 2022 - [Microbiome signatures in *Acropora cervicornis* are associated with genotypic resilience to elevated nutrients and heat stress](https://rdcu.be/cRFc1)
