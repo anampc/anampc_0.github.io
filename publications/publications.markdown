@@ -9,7 +9,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 -----
 
-#### 202X - [Comparación de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
+#### 2023 - [Comparación de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
 
 * **Authors:** Ana M. Palacio-Castro, Zapata FA
 * **Journal:** Submitted to: In JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp XX-XX). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [10.XXX](https://link.topublication)
@@ -19,10 +19,10 @@ Here you can find my published work. The **Data** sections contain permanent lin
   
 -----
 
-#### 2022 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
+#### 2023 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
 
 * **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
-* **Journal:** _Submitted_ [10.XXX](https://link.topublication)
+* **Journal:** _PNAS_ [10.XXX](https://link.topublication)
 
 * **Code and outputs:**
     * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
@@ -35,7 +35,12 @@ Here you can find my published work. The **Data** sections contain permanent lin
     * DWH [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
     * Coral cover and bleaching [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035828.svg)](https://doi.org/10.5281/zenodo.7035828)
     * Symbiodiniaceae [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035874.svg)](https://doi.org/10.5281/zenodo.7035874)
- 
+ -----
+
+#### 2023 - [Coral disease outbreak at the remote Flower Garden Banks, Gulf of Mexico](https://doi.org/10.1016/j.rsma.2017.01.007)
+
+* **Authors:** M.A. Johnston, M.S. Studivan, I.C. Enochs, A.M.S. Correa, N.Besemer, R.J. Eckert, K. Edwards, R. Hannum, X. Hu, M. Nuttall, K. O'Connell, A.M. Palacio-Castro, G.P. Schmahl, A.B. Sturm, B.Ushijima, J.D. Voss
+* **Journal:** _Frontiers in Marine Science_ [10.3389/fmars.2023.1111749](https://doi.org/10.3389/fmars.2023.1111749)
 -----
 
 #### 2022 - [Microbiome signatures in *Acropora cervicornis* are associated with genotypic resilience to elevated nutrients and heat stress](https://rdcu.be/cRFc1)
