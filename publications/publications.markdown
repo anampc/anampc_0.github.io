@@ -35,6 +35,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
     * DWH [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
     * Coral cover and bleaching [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035828.svg)](https://doi.org/10.5281/zenodo.7035828)
     * Symbiodiniaceae [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035874.svg)](https://doi.org/10.5281/zenodo.7035874)
+  
  -----
 
 #### 2023 - [Coral disease outbreak at the remote Flower Garden Banks, Gulf of Mexico](https://doi.org/10.1016/j.rsma.2017.01.007)
