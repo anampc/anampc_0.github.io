@@ -41,6 +41,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 * **Authors:** M.A. Johnston, M.S. Studivan, I.C. Enochs, A.M.S. Correa, N.Besemer, R.J. Eckert, K. Edwards, R. Hannum, X. Hu, M. Nuttall, K. O'Connell, A.M. Palacio-Castro, G.P. Schmahl, A.B. Sturm, B.Ushijima, J.D. Voss
 * **Journal:** _Frontiers in Marine Science_ [10.3389/fmars.2023.1111749](https://doi.org/10.3389/fmars.2023.1111749)
+
 -----
 
 #### 2022 - [Microbiome signatures in *Acropora cervicornis* are associated with genotypic resilience to elevated nutrients and heat stress](https://rdcu.be/cRFc1)
