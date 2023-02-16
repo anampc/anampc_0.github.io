@@ -22,11 +22,11 @@ Here you can find my published work. The **Data** sections contain permanent lin
 #### 2023 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
 
 * **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
-* **Journal:** _PNAS_ [10.XXX](https://link.topublication)
+* **Journal:** _PNAS_ [10.1073/pnas.2202388120](https://doi.org/10.1073/pnas.2202388120)
 
 * **Code and outputs:**
     * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
-    * _GitHub_ [Coral cover](https://anampc.github.io/Uva_ENSO_Cover_Bleaching/)
+    * _GitHub_ [Coral Cover](https://anampc.github.io/Uva_ENSO_Cover_Bleaching/)
     * _GitHub_ [Coral Bleaching](https://rpubs.com/anampc20/Uva_ENSO_Cover_Bleaching)
     * _GitHub_ [Symbiodiniaceae](https://anampc.github.io/Symbiodiniaceae_Uva/)
 
