@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Ana Palacio
-description: Personal site for Ana Palacio-Castro, PhD. Scientist, working on marine biology and ecology, climate change, coral bleaching & physiology.
+description: Personal site for Ana M. Palacio-Castro, PhD. Scientist, working on marine biology and ecology, climate change, coral bleaching & physiology.
 ---
 
 <img class="img-circle avatar"
