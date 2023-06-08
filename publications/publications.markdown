@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Publications and code
 permalink: /publications/
 description: Climate change and coral data analysis and papers
 ---
@@ -18,8 +18,13 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
   
 -----
+#### 2023 - [Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression](https://linktopub)
+* **Authors:** MT Connelly, G Snyder, AM Palacio-Castro, PR Gillette, AC Baker, N Traylor-Knowles
+* **Journal:** _ Molecular Ecology_ [DOI](https://doi.org/XX)
 
-#### 2023 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://linktopub)
+-----
+
+#### 2023 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://doi.org/10.1073/pnas.2202388120)
 
 * **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
 * **Journal:** _PNAS_ [10.1073/pnas.2202388120](https://doi.org/10.1073/pnas.2202388120)
