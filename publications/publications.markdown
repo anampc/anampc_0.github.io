@@ -11,7 +11,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 #### 2023 - [Comparación de métodos para el estudio y monitoreo de arrecifes coralinos](https://linktopub)
 
-* **Authors:** Ana M. Palacio-Castro, Zapata FA
+* **Authors:** AM Palacio-Castro, FA Zapata
 * **Journal:** Submitted to: In JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp XX-XX). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [10.XXX](https://link.topublication)
 
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6369273.svg)](https://doi.org/10.5281/zenodo.6369273)
@@ -20,13 +20,13 @@ Here you can find my published work. The **Data** sections contain permanent lin
 -----
 #### 2023 - [Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression](https://linktopub)
 * **Authors:** MT Connelly, G Snyder, AM Palacio-Castro, PR Gillette, AC Baker, N Traylor-Knowles
-* **Journal:** _ Molecular Ecology_ [DOI](https://doi.org/XX)
+* **Journal:** _Molecular Ecology_ [DOI](https://doi.org/XX)
 
 -----
 
 #### 2023 - [Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming](https://doi.org/10.1073/pnas.2202388120)
 
-* **Authors:** Ana M. Palacio-Castro, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R , Maté JL, Manzello D, Glynn PW, Fong P, Baker AC
+* **Authors:** AM Palacio-Castro, TB Smith, GA Snyder, V Brandtneris, R van Hooidonk, JL Maté, D Manzello, PW Glynn, P Fong, AC Baker
 * **Journal:** _PNAS_ [10.1073/pnas.2202388120](https://doi.org/10.1073/pnas.2202388120)
 
 * **Code and outputs:**
@@ -45,14 +45,14 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 #### 2023 - [Coral disease outbreak at the remote Flower Garden Banks, Gulf of Mexico](https://doi.org/10.1016/j.rsma.2017.01.007)
 
-* **Authors:** M.A. Johnston, M.S. Studivan, I.C. Enochs, A.M.S. Correa, N.Besemer, R.J. Eckert, K. Edwards, R. Hannum, X. Hu, M. Nuttall, K. O'Connell, A.M. Palacio-Castro, G.P. Schmahl, A.B. Sturm, B.Ushijima, J.D. Voss
+* **Authors:** MA Johnston, MS Studivan, IC Enochs, AMS Correa, N Besemer, RJ Eckert, K Edwards, R Hannum, X Hu, M Nuttall, K O'Connell, AM Palacio-Castro, GP Schmahl, AB Sturm, B Ushijima, JD Voss
 * **Journal:** _Frontiers in Marine Science_ [10.3389/fmars.2023.1111749](https://doi.org/10.3389/fmars.2023.1111749)
 
 -----
 
 #### 2022 - [Microbiome signatures in *Acropora cervicornis* are associated with genotypic resilience to elevated nutrients and heat stress](https://rdcu.be/cRFc1)
 
-* **Authors:** Ana M. Palacio-Castro, Stephanie M. Rosales, Caroline E. Dennison, Andrew C. Baker
+* **Authors:** AM Palacio-Castro, SM Rosales, CE Dennison, AC Baker
 * **Journal:** _Coral Reefs_ [10.1007/s00338-022-02289-w](https://rdcu.be/cRFc1)
 * **Data:** [![DOI](https://zenodo.org/badge/218383066.svg)](https://zenodo.org/badge/latestdoi/218383066)
 * **Code:** _GitHub_ [NutrientsHeat_AcerGenotypes](https://anampc.github.io/Nutrients_Genotypes/)
@@ -62,7 +62,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 #### 2021 - [Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened *Acropora cervicornis* is particularly susceptible to elevated nutrients and heat stress](https://rdcu.be/cpS3F)
 
-* **Authors:** Ana M. Palacio-Castro, Caroline E. Dennison, Stephanie M. Rosales, Andrew C. Baker
+* **Authors:** AM Palacio-Castro, CE Dennison, SM Rosales, AC Baker
 * **Journal:** _Coral Reefs_ [10.1007/s00338-021-02159-x](https://rdcu.be/cpS3F)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4632232.svg)](https://doi.org/10.5281/zenodo.4632232)
 * **Code:** _GitHub_ [NutrientsHeat_Caribbean](https://anampc.github.io/NutrientsHeat_Caribbean/)
@@ -71,7 +71,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 #### 2020 - [Increased Algal Symbiont Density Reduces Host Immunity in a Threatened Caribbean Coral Species, *Orbicella faveolata*](https://doi.org/10.3389/fevo.2020.572942)
 
-* **Authors:** Lauren E. Fuess, Ana M. Palacio-Castro, Caleb C. Butler, Andrew C. Baker, Laura D. Mydlarz
+* **Authors:** LE Fuess, AM Palacio-Castro, CC Butler, AC Baker, LD Mydlarz
 * **Journal:** _Front. Ecol. Evol_  [10.3389/fevo.2020.572942](https://doi.org/10.3389/fevo.2020.572942) 
 * **Data:** [![DOI](https://zenodo.org/badge/224942894.svg)](https://zenodo.org/badge/latestdoi/224942894)
 * **Code:** _GitHub_ [Ofav_NH4_SH](https://anampc.github.io/Ofav_NH4_SH/)
@@ -80,7 +80,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 #### 2020 - [Coral reef resilience to thermal stress in the Eastern Tropical Pacific](http://dx.doi.org/10.1111/gcb.15126)
 
-* **Authors:** Mauricio Romero-Torres, Alberto Acosta, Ana M. Palacio-Castro, David A. Eric A. Treml, Fernando A. Zapata, Paz-García, and James W. Porter
+* **Authors:** M Romero-Torres, A Acosta, AM Palacio-Castro, EA Treml, FA Zapata, DA Paz-García, JW Porter
 * **Journal:** _Global Change Biology_ [10.1111/gcb.15126](http://dx.doi.org/10.1111/gcb.15126)
 * **Data:** [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3404205.svg)](http://dx.doi.org/10.5281/zenodo.3404205)
 * **Code:** _GitHub_ [ETP_reef_resilience](https://anampc.github.io/ETP_reef_resilience/)
@@ -89,7 +89,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 #### 2017 - [Source location and food availability determine the growth response of Orbicella faveolata to climate change stressors](https://doi.org/10.1016/j.rsma.2017.01.007)
 
-* **Authors:** Erica K. Towle, Ana M. Palacio-Castro, Andrew C. Baker, Chris Langdon
+* **Authors:** EK Towle, AM Palacio-Castro, AC Baker, C Langdon
 * **Journal:** _Regional Studies in Marine Science_ [10.1016/j.rsma.2017.01.007](https://doi.org/10.1016/j.rsma.2017.01.007)
 
 
