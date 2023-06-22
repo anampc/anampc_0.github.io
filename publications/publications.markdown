@@ -18,9 +18,9 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
   
 -----
-#### 2023 - [Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression](https://linktopub)
+#### 2023 - [Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression](https://doi.org/10.1111/mec.17049)
 * **Authors:** MT Connelly, G Snyder, AM Palacio-Castro, PR Gillette, AC Baker, N Traylor-Knowles
-* **Journal:** _Molecular Ecology_ [DOI](https://doi.org/XX)
+* **Journal:** _Molecular Ecology_ [DOI](https://doi.org/10.1111/mec.17049)
 
 -----
 
