@@ -9,6 +9,15 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 -----
 
+#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral Orbicella faveolata](https://linktopub)
+* **Authors:** Serrano X, Rosales S, Miller M, Palacio-Castro AM, Williamson O, Gomez A, Baker A.
+* * **Journal:** _Submitted to PlosOne_ [doi](https://doi.org/10.1101/2023.09.22.559035)
+
+* **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
+* **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
+
+-----
+
 #### 2023 - [Coral reef carbonate chemistry reveals interannual, seasonal, and spatial impacts on ocean acidification off Florida](https://linktopub)
 * **Authors:** Palacio-Castro AM, Enochs IC, Besemer N, Boyd A, Jankulak M, Kolodziej G, Hirsh HK, Webb AE, Towle EK, Kelble K, Smith I, Manzello DP 
 * **Journal:** _Global Biogeochemical Cycles_ [doi](https://doi.org/doi)
@@ -16,7 +25,6 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
 * **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
   
-
 -----
 
 #### 2023 - [Capítulo 18: Comparación de tres métodos para el estudio de las comunidades bentónicas sésiles en arrecifes coralinos](https://linktopub)
