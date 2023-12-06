@@ -13,7 +13,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** Palacio-Castro AM, Enochs IC, Besemer N, Boyd A, Jankulak M, Kolodziej G, Hirsh HK, Webb AE, Towle EK, Kelble K, Smith I, Manzello DP 
 * **Journal:** _Global Biogeochemical Cycles_ [doi](https://doi.org/doi)
 
-* * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
+* **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
 * **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
   
 
