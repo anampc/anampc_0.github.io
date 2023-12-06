@@ -9,10 +9,9 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 -----
 
-#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral <i>Orbicella faveolata]</i>(https://linktopub)
+#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral <i>Orbicella faveolata</i>](https://linktopub)
 * **Authors:** Serrano X, Rosales S, Miller M, Palacio-Castro AM, Williamson O, Gomez A, Baker A.
-* * **Journal:** _Submitted to PlosOne_ [doi](https://doi.org/10.1101/2023.09.22.559035)
-
+* **Journal:** _Submitted to PlosOne_ [doi](https://doi.org/10.1101/2023.09.22.559035)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8022069.svg)](https://doi.org/10.5281/zenodo.8022069)
 * **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/Sediments_Larvae/)
 
@@ -21,7 +20,6 @@ Here you can find my published work. The **Data** sections contain permanent lin
 #### 2023 - [Coral reef carbonate chemistry reveals interannual, seasonal, and spatial impacts on ocean acidification off Florida](https://linktopub)
 * **Authors:** Palacio-Castro AM, Enochs IC, Besemer N, Boyd A, Jankulak M, Kolodziej G, Hirsh HK, Webb AE, Towle EK, Kelble K, Smith I, Manzello DP 
 * **Journal:** _Global Biogeochemical Cycles_ [doi](https://doi.org/doi)
-
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
 * **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
   
@@ -31,7 +29,6 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 * **Authors:** AM Palacio-Castro, FA Zapata
 * **Book:** _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp 221-230). Ed. JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [ISBN 978-626-95506-9-6](https://link.topublication)
-
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6369273.svg)](https://doi.org/10.5281/zenodo.6369273) 
 * **Code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
   
@@ -52,7 +49,6 @@ Here you can find my published work. The **Data** sections contain permanent lin
     * _GitHub_ [Coral Cover](https://anampc.github.io/Uva_ENSO_Cover_Bleaching/)
     * _GitHub_ [Coral Bleaching](https://rpubs.com/anampc20/Uva_ENSO_Cover_Bleaching)
     * _GitHub_ [Symbiodiniaceae](https://anampc.github.io/Symbiodiniaceae_Uva/)
-
 
 * **Data and scripts:** 
     * DWH [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7035690.svg)](https://doi.org/10.5281/zenodo.7035690)
