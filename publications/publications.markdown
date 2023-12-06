@@ -9,12 +9,12 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 -----
 
-#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral Orbicella faveolata](https://linktopub)
+#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral <i>Orbicella faveolata]</i>(https://linktopub)
 * **Authors:** Serrano X, Rosales S, Miller M, Palacio-Castro AM, Williamson O, Gomez A, Baker A.
 * * **Journal:** _Submitted to PlosOne_ [doi](https://doi.org/10.1101/2023.09.22.559035)
 
-* **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
-* **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
+* **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8022069.svg)](https://doi.org/10.5281/zenodo.8022069)
+* **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/Sediments_Larvae/)
 
 -----
 
