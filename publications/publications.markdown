@@ -9,11 +9,11 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 -----
 
-#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral <i>Orbicella faveolata</i>](https://linktopub)
+#### 2023 - [Sediment source and dose influence the larval performance of the threatened coral <i>Orbicella faveolata</i>](https://doi.org/10.1101/2023.09.22.559035)
 * **Authors:** Serrano X, Rosales S, Miller M, Palacio-Castro AM, Williamson O, Gomez A, Baker A.
 * **Journal:** _Submitted to PlosOne_ [doi](https://doi.org/10.1101/2023.09.22.559035)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8022069.svg)](https://doi.org/10.5281/zenodo.8022069)
-* **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/Sediments_Larvae/)
+* **Workflow and code:** _GitHub_ [FLK_2021](https://anampc.github.io/Sediments_Larvae/)
 
 -----
 
@@ -21,7 +21,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** Palacio-Castro AM, Enochs IC, Besemer N, Boyd A, Jankulak M, Kolodziej G, Hirsh HK, Webb AE, Towle EK, Kelble K, Smith I, Manzello DP 
 * **Journal:** _Global Biogeochemical Cycles_ [doi](https://doi.org/doi)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
-* **Code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
+* **Workflow and code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
   
 -----
 
@@ -30,7 +30,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** AM Palacio-Castro, FA Zapata
 * **Book:** _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp 221-230). Ed. JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [ISBN 978-626-95506-9-6](https://github.com/anampc/Publications/blob/main/2023_ManualBuceo_Cap_18.pdf)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6369273.svg)](https://doi.org/10.5281/zenodo.6369273) 
-* **Code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
+* **Workflow and code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
   
 -----
 #### 2023 - [Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression](https://doi.org/10.1111/mec.17049)
@@ -44,7 +44,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** AM Palacio-Castro, TB Smith, GA Snyder, V Brandtneris, R van Hooidonk, JL Maté, D Manzello, PW Glynn, P Fong, AC Baker
 * **Journal:** _PNAS_ [10.1073/pnas.2202388120](https://doi.org/10.1073/pnas.2202388120)
 
-* **Code and outputs:**
+* **Workflow and code:**
     * _GitHub_ [DHW](https://anampc.github.io/DHW_Uva/)
     * _GitHub_ [Coral Cover](https://anampc.github.io/Uva_ENSO_Cover_Bleaching/)
     * _GitHub_ [Coral Bleaching](https://rpubs.com/anampc20/Uva_ENSO_Cover_Bleaching)
@@ -69,7 +69,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** AM Palacio-Castro, SM Rosales, CE Dennison, AC Baker
 * **Journal:** _Coral Reefs_ [10.1007/s00338-022-02289-w](https://rdcu.be/cRFc1)
 * **Data:** [![DOI](https://zenodo.org/badge/218383066.svg)](https://zenodo.org/badge/latestdoi/218383066)
-* **Code:** _GitHub_ [NutrientsHeat_AcerGenotypes](https://anampc.github.io/Nutrients_Genotypes/)
+* **Workflow and code:** _GitHub_ [NutrientsHeat_AcerGenotypes](https://anampc.github.io/Nutrients_Genotypes/)
   
 -----
 
@@ -79,7 +79,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** AM Palacio-Castro, CE Dennison, SM Rosales, AC Baker
 * **Journal:** _Coral Reefs_ [10.1007/s00338-021-02159-x](https://rdcu.be/cpS3F)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4632232.svg)](https://doi.org/10.5281/zenodo.4632232)
-* **Code:** _GitHub_ [NutrientsHeat_Caribbean](https://anampc.github.io/NutrientsHeat_Caribbean/)
+* **Workflow and code:** _GitHub_ [NutrientsHeat_Caribbean](https://anampc.github.io/NutrientsHeat_Caribbean/)
   
 -----
 
@@ -88,7 +88,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** LE Fuess, AM Palacio-Castro, CC Butler, AC Baker, LD Mydlarz
 * **Journal:** _Front. Ecol. Evol_  [10.3389/fevo.2020.572942](https://doi.org/10.3389/fevo.2020.572942) 
 * **Data:** [![DOI](https://zenodo.org/badge/224942894.svg)](https://zenodo.org/badge/latestdoi/224942894)
-* **Code:** _GitHub_ [Ofav_NH4_SH](https://anampc.github.io/Ofav_NH4_SH/)
+* **Workflow and code:** _GitHub_ [Ofav_NH4_SH](https://anampc.github.io/Ofav_NH4_SH/)
   
 -----
 
@@ -97,7 +97,7 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** M Romero-Torres, A Acosta, AM Palacio-Castro, EA Treml, FA Zapata, DA Paz-García, JW Porter
 * **Journal:** _Global Change Biology_ [10.1111/gcb.15126](http://dx.doi.org/10.1111/gcb.15126)
 * **Data:** [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.3404205.svg)](http://dx.doi.org/10.5281/zenodo.3404205)
-* **Code:** _GitHub_ [ETP_reef_resilience](https://anampc.github.io/ETP_reef_resilience/)
+* **Workflow and code:** _GitHub_ [ETP_reef_resilience](https://anampc.github.io/ETP_reef_resilience/)
 
 -----
 
@@ -105,6 +105,3 @@ Here you can find my published work. The **Data** sections contain permanent lin
 
 * **Authors:** EK Towle, AM Palacio-Castro, AC Baker, C Langdon
 * **Journal:** _Regional Studies in Marine Science_ [10.1016/j.rsma.2017.01.007](https://doi.org/10.1016/j.rsma.2017.01.007)
-
-
-
