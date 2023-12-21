@@ -13,13 +13,13 @@ Here you can find my published work. The **Data** sections contain permanent lin
 * **Authors:** Serrano X, Rosales S, Miller M, Palacio-Castro AM, Williamson O, Gomez A, Baker A.
 * **Journal:** _Submitted to PlosOne_ [doi](https://doi.org/10.1101/2023.09.22.559035)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8022069.svg)](https://doi.org/10.5281/zenodo.8022069)
-* **Workflow and code:** _GitHub_ [FLK_2021](https://anampc.github.io/Sediments_Larvae/)
+* **Workflow and code:** _GitHub_ [Sediments_Larvae](https://anampc.github.io/Sediments_Larvae/)
 
 -----
 
-#### 2023 - [Coral reef carbonate chemistry reveals interannual, seasonal, and spatial impacts on ocean acidification off Florida](https://linktopub)
+#### 2023 - [Coral reef carbonate chemistry reveals interannual, seasonal, and spatial impacts on ocean acidification off Florida](https://doi.org/10.1029/2023GB007789)
 * **Authors:** Palacio-Castro AM, Enochs IC, Besemer N, Boyd A, Jankulak M, Kolodziej G, Hirsh HK, Webb AE, Towle EK, Kelble K, Smith I, Manzello DP 
-* **Journal:** _Global Biogeochemical Cycles_ [doi](https://doi.org/doi)
+* **Journal:** _Global Biogeochemical Cycles_ [doi](https://doi.org/10.1029/2023GB007789)
 * **Data:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10275295.svg)](https://doi.org/10.5281/zenodo.10275295)
 * **Workflow and code:** _GitHub_ [FLK_2021](https://anampc.github.io/FLK_2021)
   
