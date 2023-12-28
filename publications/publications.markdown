@@ -28,7 +28,7 @@ Here you can find my published work. The **Archived repository** sections contai
 #### 2023 - [Capítulo 18: Comparación de tres métodos para el estudio de las comunidades bentónicas sésiles en arrecifes coralinos](https://github.com/anampc/Publications/blob/main/2023_ManualBuceo_Cap_18.pdf)
 
 * **Authors:** AM Palacio-Castro, FA Zapata
-* **Book:** _Manual de Procedimientos y Metodologías para Buceo Científico_ (pp 221-230). Ed. JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [ISBN 978-626-95506-9-6](https://github.com/anampc/Publications/blob/main/2023_ManualBuceo_Cap_18.pdf)
+* **Book:** _Buceo científico: Procedimientos y metodologías_ (pp 221-230). Ed. JA Sánchez, EM Alvarado, LF Barrios & E Ochoa (Ed.). Academia Colombiana de Ciencias Exactas, Físicas y Naturales (ACCEFYN), FEDECAS-MinDeporte, Conservación Internacional, Bogotá, Colombia. [ISBN 978-626-95506-9-6](https://github.com/anampc/Publications/blob/main/2023_ManualBuceo_Cap_18.pdf)
 * **Archived repository:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6369273.svg)](https://doi.org/10.5281/zenodo.6369273) 
 * **Workflow and code:** _GitHub_ [Metodos_Cobertura](https://anampc.github.io/Metodos_Cobertura/)
   
